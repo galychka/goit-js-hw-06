@@ -15,4 +15,3 @@
       newCounter();
     });
 
-    updateCounter();

@@ -7,4 +7,4 @@ const nameInput = document.getElementById('name-input');
     }
     nameInput.addEventListener('input', newNameOutput);
 
-    newNameOutput();
+    
